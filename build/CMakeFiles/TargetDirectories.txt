@@ -1,0 +1,3 @@
+/home/iason/workbench/university/Operating-Systems/build/CMakeFiles/tinyshell.dir
+/home/iason/workbench/university/Operating-Systems/build/CMakeFiles/edit_cache.dir
+/home/iason/workbench/university/Operating-Systems/build/CMakeFiles/rebuild_cache.dir

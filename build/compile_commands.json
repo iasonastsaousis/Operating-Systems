@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/iason/workbench/university/Operating-Systems/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/tinyshell.dir/src/main.c.o -c /home/iason/workbench/university/Operating-Systems/src/main.c",
+  "file": "/home/iason/workbench/university/Operating-Systems/src/main.c"
+}
+]
